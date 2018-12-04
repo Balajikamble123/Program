@@ -6,6 +6,7 @@ import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 // hibrnate change
 //first
+// second
 public class TestHibernate {
 
 	public static void main(String[] args) {
