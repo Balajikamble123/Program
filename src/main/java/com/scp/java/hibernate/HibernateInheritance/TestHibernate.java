@@ -4,7 +4,8 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
-
+// hibrnate change
+//first
 public class TestHibernate {
 
 	public static void main(String[] args) {
