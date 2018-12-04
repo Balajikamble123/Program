@@ -1,5 +1,5 @@
 package com.scp.java.hibernate.HibernateInheritance;
-
+//jgjch
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Inheritance;
